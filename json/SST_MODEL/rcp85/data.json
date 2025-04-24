@@ -1,0 +1,60 @@
+{
+  "load_dir" : "/root/lanyun-tmp/data/raw_SST/",
+  "realizations" : {
+    "r1" : {
+      "tas" : [
+        "r1/regrid_sst.day.mean.1982.nc",
+        "r1/regrid_sst.day.mean.1983.nc",
+        "r1/regrid_sst.day.mean.1984.nc",
+        "r1/regrid_sst.day.mean.1985.nc",
+        "r1/regrid_sst.day.mean.1986.nc",
+        "r1/regrid_sst.day.mean.1987.nc",
+        "r1/regrid_sst.day.mean.1988.nc",
+        "r1/regrid_sst.day.mean.1989.nc",
+        "r1/regrid_sst.day.mean.1990.nc",
+        "r1/regrid_sst.day.mean.1991.nc",
+        "r1/regrid_sst.day.mean.1992.nc",
+        "r1/regrid_sst.day.mean.1993.nc",
+        "r1/regrid_sst.day.mean.1994.nc",
+        "r1/regrid_sst.day.mean.1995.nc"
+      ]
+    },
+    "r2" : {
+      "tas" : [
+        "r2/regrid_sst.day.mean.1996.nc",
+        "r2/regrid_sst.day.mean.1997.nc",
+        "r2/regrid_sst.day.mean.1998.nc",
+        "r2/regrid_sst.day.mean.1999.nc",
+        "r2/regrid_sst.day.mean.2000.nc",
+        "r2/regrid_sst.day.mean.2001.nc",
+        "r2/regrid_sst.day.mean.2002.nc",
+        "r2/regrid_sst.day.mean.2003.nc",
+        "r2/regrid_sst.day.mean.2004.nc",
+        "r2/regrid_sst.day.mean.2005.nc",
+        "r2/regrid_sst.day.mean.2006.nc",
+        "r2/regrid_sst.day.mean.2007.nc",
+        "r2/regrid_sst.day.mean.2008.nc",
+        "r2/regrid_sst.day.mean.2009.nc"
+      ]
+    },
+    "r3" : {
+      "tas" : [
+        "r3/regrid_sst.day.mean.2010.nc",
+        "r3/regrid_sst.day.mean.2011.nc",
+        "r3/regrid_sst.day.mean.2012.nc",
+        "r3/regrid_sst.day.mean.2013.nc",
+        "r3/regrid_sst.day.mean.2014.nc",
+        "r3/regrid_sst.day.mean.2015.nc",
+        "r3/regrid_sst.day.mean.2016.nc",
+        "r3/regrid_sst.day.mean.2017.nc",
+        "r3/regrid_sst.day.mean.2018.nc",
+        "r3/regrid_sst.day.mean.2019.nc",
+        "r3/regrid_sst.day.mean.2020.nc",
+        "r3/regrid_sst.day.mean.2021.nc",
+        "r3/regrid_sst.day.mean.2022.nc",
+        "r3/regrid_sst.day.mean.2023.nc",
+        "r3/regrid_sst.day.mean.2024.nc"
+      ]
+    }
+  }
+}
